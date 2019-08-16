@@ -9,7 +9,7 @@
     "static/js/2.b1b049ec.chunk.js.map": "/3question-React-Build-version/static/js/2.b1b049ec.chunk.js.map",
     "index.html": "/index.html",
     "precache-manifest.3704a20c12cc06e347f5a5c5a67e7a49.js": "/3question-React-Build-version/precache-manifest.3704a20c12cc06e347f5a5c5a67e7a49.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.c3a1b679.chunk.css.map": "/3question-React-Build-version/static/css/main.c3a1b679.chunk.css.map"
+    "service-worker.js": "/3question-React-Build/service-worker.js",
+    "/3question-React-Build/static/css/main.c3a1b679.chunk.css.map": "/3question-React-Build-version/static/css/main.c3a1b679.chunk.css.map"
   }
 }
